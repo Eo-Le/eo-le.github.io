@@ -1,5 +1,5 @@
-# QC Kemiker ved PharmaNord i Vojens
-Arbejdsområde:
+# QC Kemiker ved PharmaNord i Vojens  
+Arbejdsområde:  
 * Kvalificering af udstyr
 * Validering af metoder og software
 * Reparation og vedlighold af udstyr
