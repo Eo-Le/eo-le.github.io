@@ -1,4 +1,5 @@
 # QC Kemiker ved PharmaNord i Vojens  
+###### 01.03.2013-31.01.012020  
 ## Arbejdsområde:  
 * Kvalificering af udstyr
 * Validering af metoder og computersystem
