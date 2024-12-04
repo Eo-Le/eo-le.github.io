@@ -5,7 +5,7 @@ categories: [qc kemiker]
 tags: [qc kemiker,pharma nord,gmp,validering,kvalificering,ph.eur, usp-nf]
 ---
   
-# 01.03.2013-31.01.12020  
+# 01.03.2013-31.01.2020  
 ## Arbejdsområde:  
 * Kvalificering af udstyr
 * Validering af metoder og computersystem
