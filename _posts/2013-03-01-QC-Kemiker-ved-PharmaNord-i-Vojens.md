@@ -2,7 +2,7 @@
 title: QC Kemiker ved Pharma Nord i Vojens [2013-2020]
 date: 2013-03-01 00:00:00
 startDate: 2013-03-01
-endDate: 31-01-31
+endDate: 2020-01-31
 categories: [qc kemiker]
 tags: [qc kemiker,pharma nord,gmp,validering,kvalificering,ph.eur, usp-nf]
 ---
