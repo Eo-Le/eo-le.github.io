@@ -1,11 +1,13 @@
 ---
-title: QC Kemiker ved Pharma Nord i Vojens
+title: QC Kemiker ved Pharma Nord i Vojens [2013-2020]
 date: 2013-03-01 00:00:00
+startDate: 2013-03-01
+endDate: 31-01-31
 categories: [qc kemiker]
 tags: [qc kemiker,pharma nord,gmp,validering,kvalificering,ph.eur, usp-nf]
 ---
   
-# 01.03.2013-31.01.2020  
+###### {{ page.startDate }} til {{ page.endDate }}
 ## Arbejdsområde:  
 * Kvalificering af udstyr
 * Validering af metoder og computersystem
