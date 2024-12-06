@@ -1,11 +1,12 @@
 ---
-title: Cato Systemansvarlig ved SLB Vejle Apotek
+title: Cato Systemansvarlig ved SLB Vejle Apotek [2020-2024]
 date: 2020-02-01 00:00:00
-categories: [cato systemansvarlig,delegeret qp,specialkonsulent]
+startDate: 2020-02-01
+categories: [cato systemansvarlig,delegeret qp,kemiker,specialkonsulent]
 tags: [cato systemansvarlig,gmp it, dqp,slb,vejle,apotek,validering,kvalificering,specialkonsulent]
 ---
 
-# 02.01.2020-{{ "now" | date: "%d.%m.%Y" }}  
+###### {{ page.startDate | date: "%d.%m.%Y" }} til {{ "now" | date: "%d.%m.%Y" }}  
 ## Arbejdesområde:
 * Systemansvarlig for Apotekets elektroniske produktionssystem, Cato
 * Kvalificering af udstyr
