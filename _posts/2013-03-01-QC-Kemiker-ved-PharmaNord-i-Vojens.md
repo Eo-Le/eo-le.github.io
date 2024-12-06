@@ -7,7 +7,7 @@ categories: [qc kemiker]
 tags: [qc kemiker,pharma nord,gmp,validering,kvalificering,ph.eur, usp-nf]
 ---
   
-###### {{ page.startDate }} til {{ page.endDate }}
+###### {{ page.startDate | date: "%d.%m.%Y" }} til {{ page.endDate | date: "%d.%m.%Y" }}
 ## Arbejdsområde:  
 * Kvalificering af udstyr
 * Validering af metoder og computersystem
